@@ -4,10 +4,14 @@ import "./styles.css";
 const emojiDictionary = {
   "😊": "smiling",
   "😳": "disbelief",
-  "😔": "sad",
-  "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
+  "😴": "sleeping",
+  "😠": "angry",
+  "😞": "sad",
+  "😘": "kiss",
+  "😋": "savouring food",
+  "😏": "smirk"
 };
 
 var emojis = Object.keys(emojiDictionary);
